@@ -133,11 +133,15 @@ With over 30 years of accomplished leadership in software engineering, I bring d
 
 ### Web3 Development
 
-Top 3 Dapp projects with description of technologies and skills required to build each.
+Featured Projects
 
 #### Solana Pay - Buy Me A Coffee
 
+Solana blockchain development, smart contracts with Rust, testnets and faucets.  Web3 UI with React/NextJS deployed to Vercel.
+
 #### Ethereum - Buy Me A Coffee
+
+Ethereum blockchain development, Solidity smart contracts, testnetsnand faucets.  Web3 UI with React/NextJS deployed to Vercel or Replit.
 
 #### Personal Payment Landing Page/Donate $USDC/Solana Pay
 
@@ -147,73 +151,78 @@ Top 3 Dapp projects with description of technologies and skills required to buil
 
 #### Solana + Rust
 
-### GIS Development
-
-#### Background, skills summary
-
-#### Seep City Dapp - San Francisco's forgotten springs, seeps, creaks and watersheds
-
-#### Historical Story Telling
-
-[Ohlone contact with Portolá expedition of 1769](https://seepcity.org/).
-
 ## Featured Projects
+
+### Historical Story Telling
+
+The project explores the first encounter between Spanish explorers in the San Francisco Bay Area. It utilizes JavaScript and Mapbox APIs to create an interactive map-based narrative of the Portla expedition.
+
+[Ohlone contact with Portolá expedition of 1769](https://balexander123.github.io/seep-city-story/).
 
 ### Seep City
 
-### Discovery of SF Bay Area then as now Ohlone Lands
-
-### Overdose neighborhood heatmaps and histograms SF During CV19/Fentynal Epidemics 2019-Present
+The [Seep City](https://seepcity.org/) project documents and reveals the lost seeps, springs and creeks of early San Francisco and pre settlement watersheds.
 
 ## Web 3 Development
 
-### NextJS, Vercel
+#### Solana Donate To Me Page
 
-#### Payment Landing Page
+My [Solana Payments/Donate](https://github.com/balexander123/buy-me-some-sol.git) landing page allows payment transfers utilizig Solana Pay to accept $USDC payments or donations.
+
+#### Ethereum Donate To Me Page
+
+My [Ethereum Donation page]() accepts ETH transfers to my Ethereum account.
 
 #### Online Store Presence - Shop Landing Page
 
-### Development Environments
-
-#### Replit
-
-#### Vercel
-
-#### VSCode 
-
-### AI Assisted Development Tools
-
-#### Chat GPT
-
-#### VSCode Intelli Code
+My [Service and Merchandise landing page](https://github.com/balexander123/solana-pay-starter.git) allows purchase of services and goods utilizing Solana Pay accepting $USDC.
 
 ## Prompt Engineering, Generative Art
 
 ### Generative Art
 
-#### DALL·E 2
+#### DALL·E
 
 A close-up, black & white studio photographic portrait of Jimi Hendrix, dramatic backlighting, 1970s photo from Life Magazine
 
-![Logo](/assets/img/jimi_hendrix_bw_portrait.jpg)
+![Jimi portrait](/assets/img/jimi_hendrix_bw_portrait.jpg)
 
-#### 
+#### Stable Diffusion
 
-#### Processing
+Cinematic cutaway view inside haunted mansion diorama | Medium shot portrait of [band member] within rooms of mansion | populated with ghost, ghouls, spooky dolls and clowns [Joey Ramone, Johnny Ramone, Dee Dee Ramone, Tommy Ramone]
 
-#### D3.js
+<a href="assets/img/haunted-ramones.jpg" target="_blank">
+  <img src="assets/img/haunted-ramones.jpg" alt="Ramones in a haunted house diorama" width="640">
+</a>
 
-## GIS Development
+#### Video
 
-#### Mapbox
+Gen-2 from Runway
+<video width="640" height="480" controls>
+  <source src="assets/img/ufo_ascending.mp4" type="video/mp4">
+</video>
 
-#### QGIS
+Pika Labs
+<video width="640" height="480" controls>
+  <source src="assets/img/ufo_ascending_roswell.mp4" type="video/mp4">
+</video>
 
-#### ArcGIS
+#### AI Photography
 
-## How to work with me.
+Medium shot portrait photograph in the style of Yousuf Karsh, prime lens, available window lighting <lora:MyFace:1.0>
+
+![Self Portrait](assets/img/self-portrait.jpg)
+
+## How to contact with me for work
+
+* My [LinkedIn profile](https://www.linkedin.com/in/barry-alexander-9169553/)
+* Connect on [Alignable](https://www.alignable.com/biz?_tid=2336716)
 
 ## Payment methods
 
-### AI Photography
+* Zelle
+* Venmo
+* ETH
+* Solana Pay
+
 
